@@ -1,48 +1,48 @@
 @font-face {
-  font-family:'Mali-Regular';
-  src:url('https://dice2657.github.io/bacs200/Mali-Regular.ttf') format('truetype');
+  font-family:'Pacifico';
+  src:url('https://rileey18.github.io/bacs200/Pacifico.ttf') format('truetype');
 }
 @font-face {
-    font-family:'Faustina-Regular';
-  src:url('https://dice2657.github.io/bacs200/Faustina-Regular.ttf') format('truetype');
+    font-family:'Pacifico-Regular';
+  src:url('https://rileey18.github.io/bacs200/Pacifico.ttf') format('truetype');
 }
 @font-face {
-    font-family:'Faustina-Bold';
-  src:url('https://dice2657.github.io/bacs200/Faustina-Bold.ttf') format('truetype');
+    font-family:'Pacifico-Bold';
+  src:url('https://rileey18.github.io/bacs200/Pacifico.ttf') format('truetype');
 }
 @font-face {
-    font-family:'Faustina-Italic';
-  src:url('https://dice2657.github.io/bacs200/Faustina-Italic.ttf') format('truetype');
+    font-family:'Pacifico-Italic';
+  src:url('https://rileey18.github.io/bacs200/Pacifico.ttf') format('truetype');
 }
 h1 {
-  font-family:'Mali-Regular';
+  font-family:'Pacifico';
   font-size: 32px;
   color:white;
 }
 h2 {
-  font-family:'Faustina-Regular';
+  font-family:'Pacifico';
   font-size:28px;
   color:white;
 }
 h3 {
-  font-family:'Faustina-Regular';
+  font-family:'Pacifico';
   font-size:20px;
   color:white;
 }
 p {
- font-family:'Faustina-Regular';
+ font-family:'Pacifico';
  font-size:16px;
  color:white;
 }
 a {
- color:gold; 
+ color:green; 
  text-align:center;
 }
 b, strong {
- font-family:'Faustina-Bold'; 
+ font-family:'Pacifico-Bold'; 
 }
 em {
-  font-family:'Faustina-Italic';
+  font-family:'Pacifico-Italic';
 }
 ol,ul,li {
   color:gold;
@@ -76,7 +76,7 @@ table {
         }
 header,main,footer {
  border-style: solid;
- border-color: black;
+ border-color: white;
  border-width: 2px;
 }
 header {
@@ -88,7 +88,7 @@ font-size: 80pt;
 header,main {
  padding:5px;
  margin:1in;
- background-color:blue;
+ background-color:red;
 }
 main {
  margin:auto;
